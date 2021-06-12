@@ -1,0 +1,265 @@
+2021-06-12T10:48:46.366Z [32minfo[39m: 	server up 🥳
+2021-06-12T12:56:42.552Z [32minfo[39m: 	server up 🥳
+2021-06-12T12:58:45.198Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:12:58:45 +0000] "GET /NSE/user HTTP/1.1" 404 147 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T12:58:57.800Z [32minfo[39m: 	$2b$08$Ey/dqhHfwinNpAqesTgluOcBmw3cdFR8yx3pQIsn20ei9AHABliYe
+2021-06-12T12:58:58.728Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:12:58:58 +0000] "POST /NSE/user HTTP/1.1" 400 43 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:10:06.573Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:11:15.356Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:11:15.761Z [32minfo[39m: 	$2b$08$7S6p80JC/I8D6rLJNKpXm.w9oZCT6QLbrDe6pcqrN7dN0rsfnz6Uu
+2021-06-12T13:11:16.331Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:11:16 +0000] "POST /NSE/user HTTP/1.1" 400 43 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:11:55.695Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:12:01.050Z [32minfo[39m: 	$2b$08$EhgF7DY9C5EizelhLuiYZOggTjd8qJtxUIHzR0sTeSSOPRhXrVqWe
+2021-06-12T13:12:01.450Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:12:01 +0000] "POST /NSE/user HTTP/1.1" 400 43 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:13:06.700Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:13:07.140Z [32minfo[39m: 	$2b$08$mVccZupFUZx.5nO4od/3zOIoiM.TsO1BuI7PDVwacpmLhBpR/CK6W
+2021-06-12T13:13:07.655Z [32minfo[39m: 	1
+2021-06-12T13:13:07.678Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:13:07 +0000] "POST /NSE/user HTTP/1.1" 200 68 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:14:08.277Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:14:11.254Z [32minfo[39m: 	$2b$08$Je3uIs6vrmKHpliiqqjRuua8d0sbj2bB7Fa/Sn1oeVjvu.cjkCXfm
+2021-06-12T13:14:11.661Z [32minfo[39m: 	1
+2021-06-12T13:14:11.690Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:14:11 +0000] "POST /NSE/user HTTP/1.1" 200 68 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:14:49.967Z [32minfo[39m: 	$2b$08$SwaGWn20ZgZm9./I82wQAOX6soGxn52udM2vydBKFC.AccYdaqIMm
+2021-06-12T13:14:53.922Z [32minfo[39m: 	2
+2021-06-12T13:14:53.927Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:14:53 +0000] "POST /NSE/user HTTP/1.1" 200 68 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:18:49.171Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:18:52.305Z [32minfo[39m: 	$2b$08$qke2RVMiQC94BMlOR22tY.4eouKK4yEf/R10J5Qjb29uJY7g.ZA9u
+2021-06-12T13:18:52.651Z [32minfo[39m: 	1
+2021-06-12T13:18:52.685Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:18:52 +0000] "POST /NSE/user HTTP/1.1" 200 68 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:18:55.359Z [32minfo[39m: 	$2b$08$hnFT8v65xuhUwG1avK3aqu8iFhrCE1zOnD1sHYmHM0BFVlsY.1HBW
+2021-06-12T13:18:55.857Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:18:55 +0000] "POST /NSE/user HTTP/1.1" 400 43 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:20:14.578Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:20:23.863Z [32minfo[39m: 	$2b$08$pMgrZrYBpH3D2gBecoku9OXHoR4s3lNZ5Y5tnwCZhVLyhLAhgjjVy
+2021-06-12T13:20:24.389Z [32minfo[39m: 	1
+2021-06-12T13:20:24.416Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:20:24 +0000] "POST /NSE/user HTTP/1.1" 200 68 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:20:28.092Z [32minfo[39m: 	$2b$08$2UMQAUw7L14PW9O.I6tK2OJyYWMZiWuBwsgbS3cH47PgseTScuwvm
+2021-06-12T13:20:28.660Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:20:28 +0000] "POST /NSE/user HTTP/1.1" 400 2 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:20:30.473Z [32minfo[39m: 	$2b$08$RgosthBqb5ul9oxfn4bseOOZ84F1k0w2bxR8nmCSAR3ZLKEeeZ7CS
+2021-06-12T13:20:30.847Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:20:30 +0000] "POST /NSE/user HTTP/1.1" 400 2 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:21:48.008Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:21:48.396Z [32minfo[39m: 	$2b$08$G4HqKWJqDVV4ovLKmIzxFeFfD0cJHGmAlt8qswoJHYe6QtbM2O1aa
+2021-06-12T13:21:48.711Z [32minfo[39m: 	1
+2021-06-12T13:21:48.745Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:21:48 +0000] "POST /NSE/user HTTP/1.1" 200 68 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:21:50.253Z [32minfo[39m: 	$2b$08$nGOHZXm2bEWedMHaxwSv0uwyu2DyHfTKFCVExOhxT5LDsWEohIsaG
+2021-06-12T13:21:50.640Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:21:50 +0000] "POST /NSE/user HTTP/1.1" 400 1948 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:23:37.374Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:23:42.073Z [32minfo[39m: 	$2b$08$w4WebaCCXudtnLM8AKT2guRSg/dSNLHAsm/jXMXgpOWCnq8b4u0fa
+2021-06-12T13:23:47.657Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:23:47 +0000] "POST /NSE/user HTTP/1.1" 400 2 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:23:50.192Z [32minfo[39m: 	$2b$08$6YnwXahhORvvwWby5PXuuuI7CAKBxP8BN44Ob5pmvCjwUtmw57zhC
+2021-06-12T13:23:50.537Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:23:50 +0000] "POST /NSE/user HTTP/1.1" 400 2 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:26:20.632Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:26:28.335Z [32minfo[39m: 	$2b$08$v4eU3wSjYfHvRCE4G00Gj.GTTmG6iUEVh/tjvHXEvtMpcljVvV64a
+2021-06-12T13:26:34.433Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:26:34 +0000] "POST /NSE/user HTTP/1.1" 400 1948 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:27:41.489Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:27:46.426Z [32minfo[39m: 	$2b$08$4URA1xCmoQ.RRNiThAsUCeIPnL0ZEJLlqkCHAGchW6zGjq8hmtsBm
+2021-06-12T13:27:52.507Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:27:52 +0000] "POST /NSE/user HTTP/1.1" 400 387 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:28:17.985Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:28:22.413Z [32minfo[39m: 	$2b$08$KFv8jWgiMQDBilYi4nSKWeFoVh2mZcyzdJy3l58AEiuPOPPqkCB1S
+2021-06-12T13:28:28.346Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:28:28 +0000] "POST /NSE/user HTTP/1.1" 400 37 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:34:46.728Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:38:03.105Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:41:21.118Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:41:31.727Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:41:31 +0000] "POST /NSE/user//login HTTP/1.1" 200 - "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:41:48.683Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:41:48 +0000] "POST /NSE/user//login HTTP/1.1" 200 - "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:42:39.723Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:42:51.454Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:42:51 +0000] "POST /NSE/user//login HTTP/1.1" 200 182 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:43:47.352Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:44:14.077Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:44:27.226Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:44:27 +0000] "POST /NSE/user//login HTTP/1.1" 200 182 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:48:44.152Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:48:56.509Z [31merror[39m: 	rows is not defined
+2021-06-12T13:48:56.543Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:48:56 +0000] "POST /NSE/user//login HTTP/1.1" 400 45 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:49:22.736Z [31merror[39m: 	rows is not defined
+2021-06-12T13:49:22.741Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:49:22 +0000] "POST /NSE/user//login HTTP/1.1" 400 45 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:49:50.259Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:50:01.507Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:50:01 +0000] "POST /NSE/user//login HTTP/1.1" 200 102 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:51:51.045Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:52:02.134Z [32minfo[39m: 	[object SequelizeInstance:nse_user_master]
+2021-06-12T13:52:02.140Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:52:02 +0000] "POST /NSE/user//login HTTP/1.1" 200 102 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:54:02.417Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:54:13.974Z [31merror[39m: 	Unexpected token o in JSON at position 1
+2021-06-12T13:54:13.982Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:54:13 +0000] "POST /NSE/user//login HTTP/1.1" 400 45 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:54:51.783Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:55:01.978Z [31merror[39m: 	Cannot create property 'token' on string '{"id":1,"username":"Batman","password":"$2b$08$G4HqKWJqDVV4ovLKmIzxFeFfD0cJHGmAlt8qswoJHYe6QtbM2O1aa"}'
+2021-06-12T13:55:01.984Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:55:01 +0000] "POST /NSE/user//login HTTP/1.1" 400 45 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T13:55:33.635Z [32minfo[39m: 	server up 🥳
+2021-06-12T13:55:46.150Z [32minfo[39m: 	[object Object]
+2021-06-12T13:55:46.161Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:13:55:46 +0000] "POST /NSE/user//login HTTP/1.1" 200 182 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T14:22:16.241Z [32minfo[39m: 	server up 🥳
+2021-06-12T14:23:32.233Z [32minfo[39m: 	server up 🥳
+2021-06-12T14:48:18.291Z [32minfo[39m: 	server up 🥳
+2021-06-12T14:48:52.221Z [32minfo[39m: 	server up 🥳
+2021-06-12T14:50:49.067Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:14:50:49 +0000] "GET /NSE/stock/dropdown HTTP/1.1" - - "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T14:53:49.676Z [32minfo[39m: 	server up 🥳
+2021-06-12T14:53:56.641Z [31merror[39m: 	Invalid value { undefined: '%hat' }
+2021-06-12T14:53:56.652Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:14:53:56 +0000] "GET /NSE/stock/dropdown?keyword=dj HTTP/1.1" 400 45 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T14:58:14.144Z [32minfo[39m: 	server up 🥳
+2021-06-12T14:58:18.677Z [31merror[39m: 	Invalid value { undefined: 'hat' }
+2021-06-12T14:58:18.693Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:14:58:18 +0000] "GET /NSE/stock/dropdown?keyword=dj HTTP/1.1" 400 45 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T14:59:00.425Z [32minfo[39m: 	server up 🥳
+2021-06-12T14:59:23.248Z [32minfo[39m: 	server up 🥳
+2021-06-12T14:59:26.941Z [31merror[39m: 	Invalid value { undefined: 'dj' }
+2021-06-12T14:59:26.950Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:14:59:26 +0000] "GET /NSE/stock/dropdown?keyword=dj HTTP/1.1" 400 45 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T15:01:32.428Z [32minfo[39m: 	server up 🥳
+2021-06-12T15:01:44.537Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:15:01:44 +0000] "GET /NSE/stock/dropdown?keyword=dj HTTP/1.1" 200 983 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T15:04:06.539Z [32minfo[39m: 	server up 🥳
+2021-06-12T15:04:11.537Z [31merror[39m: 	Invalid value { name: 'dj' }
+2021-06-12T15:04:11.550Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:15:04:11 +0000] "GET /NSE/stock/dropdown?keyword=dj HTTP/1.1" 400 45 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T15:05:04.878Z [32minfo[39m: 	server up 🥳
+2021-06-12T15:05:08.170Z [31merror[39m: 	Invalid value { undefined: 'dj' }
+2021-06-12T15:05:08.181Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:15:05:08 +0000] "GET /NSE/stock/dropdown?keyword=dj HTTP/1.1" 400 45 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T15:28:25.893Z [32minfo[39m: 	server up 🥳
+2021-06-12T15:28:51.381Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:15:28:51 +0000] "GET /NSE/stock/dropdown?keyword=dj HTTP/1.1" 200 2 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T15:29:39.989Z [32minfo[39m: 	server up 🥳
+2021-06-12T15:30:29.308Z [32minfo[39m: 	server up 🥳
+2021-06-12T15:30:38.572Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:15:30:38 +0000] "GET /NSE/stock/dropdown?keyword=dj HTTP/1.1" 200 2 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T15:31:48.144Z [32minfo[39m: 	server up 🥳
+2021-06-12T15:32:26.829Z [32minfo[39m: 	server up 🥳
+2021-06-12T15:32:40.175Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:15:32:40 +0000] "GET /NSE/stock/dropdown?keyword=B HTTP/1.1" 200 69 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T15:33:07.990Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:15:33:07 +0000] "GET /NSE/stock/dropdown?keyword=LAW HTTP/1.1" 200 2 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T15:34:41.432Z [32minfo[39m: 	server up 🥳
+2021-06-12T15:34:52.312Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:15:34:52 +0000] "GET /NSE/stock/dropdown?keyword=LAW HTTP/1.1" 200 36 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T15:58:33.312Z [32minfo[39m: 	server up 🥳
+2021-06-12T15:58:44.046Z [31merror[39m: 	Assignment to constant variable.
+2021-06-12T15:58:44.087Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:15:58:44 +0000] "GET /NSE/stock/ HTTP/1.1" 400 45 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T15:59:33.309Z [32minfo[39m: 	server up 🥳
+2021-06-12T15:59:43.577Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:15:59:43 +0000] "GET /NSE/stock/ HTTP/1.1" 200 7485 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:00:10.093Z [31merror[39m: 	startRange is not defined
+2021-06-12T16:00:10.100Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:00:10 +0000] "GET /NSE/stock?page=1&size=5 HTTP/1.1" 400 45 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:02:41.333Z [32minfo[39m: 	server up 🥳
+2021-06-12T16:03:02.874Z [31merror[39m: 	object is not defined
+2021-06-12T16:03:02.881Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:03:02 +0000] "GET /NSE/stock?page=1&size=5 HTTP/1.1" 400 45 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:03:48.640Z [32minfo[39m: 	server up 🥳
+2021-06-12T16:04:00.512Z [31merror[39m: 	Cannot access 'obj' before initialization
+2021-06-12T16:04:00.520Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:04:00 +0000] "GET /NSE/stock?page=1&size=5 HTTP/1.1" 400 45 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:06:44.943Z [32minfo[39m: 	server up 🥳
+2021-06-12T16:06:57.546Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:06:57 +0000] "GET /NSE/stock?page=1&size=5 HTTP/1.1" 200 1294 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:07:38.120Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:07:38 +0000] "GET /NSE/stock?page=1&size=5&id=2 HTTP/1.1" 200 308 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:09:35.574Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:09:35 +0000] "GET /NSE/stock/dropdown?keyword=B HTTP/1.1" 200 138 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:10:04.214Z [32minfo[39m: 	server up 🥳
+2021-06-12T16:10:35.434Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:10:35 +0000] "GET /NSE/stock?page=1&size=5&keyword=%22b%22 HTTP/1.1" 200 60 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:11:29.448Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:11:29 +0000] "GET /NSE/stock?page=1&size=5&keyword=b HTTP/1.1" 200 1057 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:14:42.543Z [32minfo[39m: 	server up 🥳
+2021-06-12T16:14:51.676Z [32minfo[39m: 	Invalid username or Password
+2021-06-12T16:14:51.707Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:14:51 +0000] "POST /NSE/user//login HTTP/1.1" 400 42 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:15:09.215Z [32minfo[39m: 	Invalid username or Password
+2021-06-12T16:15:09.220Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:15:09 +0000] "POST /NSE/user/login HTTP/1.1" 400 42 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:15:40.027Z [32minfo[39m: 	$2b$08$mCkXJN/fue1lr4YpsNEp0O7gjgSRiVUn4ItLRd8X8Ib/jAtigkWnK
+2021-06-12T16:15:43.518Z [32minfo[39m: 	1
+2021-06-12T16:15:43.524Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:15:43 +0000] "POST /NSE/user HTTP/1.1" 200 68 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:15:49.220Z [32minfo[39m: 	[object Object]
+2021-06-12T16:15:49.222Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:15:49 +0000] "POST /NSE/user/login HTTP/1.1" 200 182 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:16:13.193Z [32minfo[39m: 	Token is not provided
+2021-06-12T16:16:13.199Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:16:13 +0000] "GET /NSE/stock?page=1&size=5&keyword=b HTTP/1.1" 401 35 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:16:42.945Z [31merror[39m: 	jwt malformed
+2021-06-12T16:16:42.947Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:16:42 +0000] "GET /NSE/stock?page=1&size=5&keyword=b HTTP/1.1" 401 131 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:17:03.706Z [31merror[39m: 	Project is not defined
+2021-06-12T16:17:03.709Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:17:03 +0000] "GET /NSE/stock?page=1&size=5&keyword=b HTTP/1.1" 401 76 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:17:06.107Z [31merror[39m: 	Project is not defined
+2021-06-12T16:17:06.108Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:17:06 +0000] "GET /NSE/stock?page=1&size=5&keyword=b HTTP/1.1" 401 76 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:18:25.933Z [32minfo[39m: 	server up 🥳
+2021-06-12T16:18:39.808Z [32minfo[39m: 	invalid token
+2021-06-12T16:18:39.839Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:18:39 +0000] "GET /NSE/stock?page=1&size=5&keyword=b HTTP/1.1" 401 47 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:18:50.090Z [31merror[39m: 	invalid token
+2021-06-12T16:18:50.092Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:18:50 +0000] "GET /NSE/stock?page=1&size=5&keyword=b HTTP/1.1" 401 131 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:20:34.809Z [32minfo[39m: 	server up 🥳
+2021-06-12T16:20:41.207Z [31merror[39m: 	invalid token
+2021-06-12T16:20:41.227Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:20:41 +0000] "GET /NSE/stock?page=1&size=5&keyword=b HTTP/1.1" 401 13 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:21:18.766Z [32minfo[39m: 	server up 🥳
+2021-06-12T16:21:33.029Z [32minfo[39m: 	[object Object]
+2021-06-12T16:21:33.035Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:21:33 +0000] "POST /NSE/user/login HTTP/1.1" 200 182 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:21:56.683Z [32minfo[39m: 	invalid token
+2021-06-12T16:21:56.691Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:21:56 +0000] "GET /NSE/stock?page=1&size=5&keyword=b HTTP/1.1" 401 47 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:21:59.853Z [32minfo[39m: 	invalid token
+2021-06-12T16:21:59.860Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:21:59 +0000] "GET /NSE/stock?page=1&size=5&keyword=b HTTP/1.1" 401 47 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:22:25.663Z [32minfo[39m: 	invalid token
+2021-06-12T16:22:25.669Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:22:25 +0000] "GET /NSE/stock?page=1&size=5&keyword=b HTTP/1.1" 401 47 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:25:31.359Z [32minfo[39m: 	server up 🥳
+2021-06-12T16:25:44.814Z [32minfo[39m: 	[object Object]
+2021-06-12T16:25:44.819Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:25:44 +0000] "POST /NSE/user/login HTTP/1.1" 200 182 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:28:27.068Z [32minfo[39m: 	server up 🥳
+2021-06-12T16:28:36.882Z [32minfo[39m: 	[object Object]
+2021-06-12T16:28:36.890Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:28:36 +0000] "POST /NSE/user/login HTTP/1.1" 200 182 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:28:50.436Z [31merror[39m: 	The argument passed to findAll must be an options object, use findByPk if you wish to pass a single primary key value
+2021-06-12T16:28:50.438Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:28:50 +0000] "GET /NSE/stock?page=1&size=5&keyword=b HTTP/1.1" 401 27 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:28:56.638Z [31merror[39m: 	The argument passed to findAll must be an options object, use findByPk if you wish to pass a single primary key value
+2021-06-12T16:28:56.640Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:28:56 +0000] "GET /NSE/stock?page=1&size=5&keyword=b HTTP/1.1" 401 27 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:31:02.099Z [32minfo[39m: 	server up 🥳
+2021-06-12T16:31:21.628Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:31:21 +0000] "GET /NSE/stock?page=1&size=5&keyword=b HTTP/1.1" 200 1057 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:32:14.000Z [31merror[39m: 	invalid token
+2021-06-12T16:32:14.002Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:32:14 +0000] "GET /NSE/stock?page=1&size=5&keyword=b HTTP/1.1" 401 27 "-" "PostmanRuntime/7.26.8"
+
+2021-06-12T16:32:24.697Z [32minfo[39m: 	[object Object]
+2021-06-12T16:32:24.699Z [32minfo[39m: 	::ffff:127.0.0.1 - - [12/Jun/2021:16:32:24 +0000] "POST /NSE/user/login HTTP/1.1" 200 182 "-" "PostmanRuntime/7.26.8"
+
